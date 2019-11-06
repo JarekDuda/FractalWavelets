@@ -9,6 +9,6 @@ While this transform is usually performed in 1D, it can be taken to 2D by changi
 
 These coefficients should be quantized for image compression purpose, or slightly modified for steganographic purpose. The current implementation only trims high frequency coefficients (set to zero) to get intuition about obtained block structure.
 
-Here are [examples of result pictures](https://dl.dropboxusercontent.com/u/12405967/fravelets.png) and [discussion](http://encode.ru/threads/2045-2D-fractal-Haar-wavelet-transform-%28implemented%29). Here is  [article](http://arxiv.org/abs/0712.1309) and [demonstration](http://demonstrations.wolfram.com/NumberSystemsUsingAComplexBase/) about complex base numeral systems.
+Here are [examples of result pictures](https://www.dropbox.com/s/5stektdr8f5ol3e/fravelets.png) and [discussion](http://encode.su/threads/2045-2D-fractal-Haar-wavelet-transform-%28implemented%29). Here is  [article](http://arxiv.org/abs/0712.1309) and [demonstration](http://demonstrations.wolfram.com/NumberSystemsUsingAComplexBase/) about complex base numeral systems.
 
 Jarek Duda, September 2014
